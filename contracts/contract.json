@@ -4,15 +4,15 @@
     "properties": {
         "name": {
             "type": "string",
-            "description": "Identifies the asset to which this NFT represents"
+            "description": "Renavam teste"
         },
         "description": {
             "type": "string",
-            "description": "Describes the asset to which this NFT represents"
+            "description": "Blog para teste"
         },
         "image": {
             "type": "string",
-            "description": "A URI pointing to a resource with mime type image/* representing the asset to which this NFT represents. Consider making any images at a width between 320 and 1080 pixels and aspect ratio between 1.91:1 and 4:5 inclusive."
+            "description": "https://vitorgiacometti.github.io/website.io/img/blog-3.jpg"
         }
     }
 }
